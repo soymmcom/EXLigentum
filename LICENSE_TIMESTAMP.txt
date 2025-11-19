@@ -1,0 +1,5 @@
+﻿File: LICENSE.txt
+Commit: 9e35ba96e226e11f8dfbe8b453c9a2e697cb663b
+SHA256: EA6D3AAAAD1A1AB2E38916F5B287D281FB62A716EE48D133288889BF2802B95F
+Time (Europe/Amsterdam): 2025-11-19T22:07:17+00:00
+Note: Future Updates/Releases are provided solely under LicenseRef-Internal-OlehSerhieiev-v1.1.
