@@ -1,0 +1,91 @@
+Custom Internal-Use License (Author-Retained IP)
+Version: 1.1
+License ID: LicenseRef-Internal-OlehSerhieiev-v1.1
+Effective Date: 2025-11-19
+Governing Law: Netherlands
+
+0. Definitions
+0.1. “Author” means Oleh Serhieiev.
+0.2. “Company” means Miratech, the employer of the Author.
+0.3. “Software” means all source code, binaries, documentation, configurations, and materials in this project (the “Initial Version” at the time the Company first obtained it).
+0.4. “Background IP” means all versions ≤4.x created by the Author prior to employment with the Company.
+0.5. “Derivatives” means any modifications, adaptations, improvements, or derivative works of the Software.
+0.6. “Employment Conditions” means (i) grade ≥7 and (ii) reporting line ≥N-3.
+0.7. “Internal Use” means use solely within the Company’s internal operations and not for external distribution, sale, or service offering.
+0.8. “Author-Controlled Entity” means any present or future entity majority-owned or controlled by the Author, including any entity operating under the “SOYMM” umbrella (e.g., soymm.com) and successors/affiliates thereof.
+0.9. “Author Marks” means the Author’s brands and names including the umbrella/house brand “SOYMM” and subordinate product marks such as “ITLigentum”, “HRLigentum”, “Millennium”, "EXLigentum", "LLigentum" and any other current or future marks listed by the Author in project materials from time to time (collectively, the “Product Marks”).
+0.10. “Purpose Statement.” The parties acknowledge that the Software originated from the Author’s independent initiative to address operational needs and improve internal processes within the Company and to support the Author’s own work processes. It was not commissioned, mandated, procured, or assigned by the Company and was developed off-hours and without compensation.
+0.11. “Successors” means, in order of priority: (a) the Author’s lawful spouse; then (b) the Author’s children in equal shares; then (c) the Author’s estate or court-appointed personal representative.
+0.12. “Release” means any tagged version, package, or distribution of the Software that the Author publishes after the Company first obtained the Software.
+0.13. “Update” means any patch, fix, improvement, maintenance release, minor or major version published by the Author after the Company first obtained the Software, including any Release.
+0.14. “Legacy Version” means any copy of the Software obtained by the Company prior to a given Update/Release.
+
+1. Ownership & Background
+1.1. Copyright. The Software is the exclusive intellectual property of the Author. No ownership is transferred to the Company.
+1.2. Background IP. Versions ≤4.x are Background IP and remain the Author’s exclusive property.
+1.3. Independently Initiated Adaptations. Versions ≥5.0 were independently developed and adapted by the Author to facilitate and organize internal operational workflows and processes within the Company and to support the Author’s own work, in response to the absence of an adequate internal tool. Development occurred in the Author’s free time and without compensation. The Software was not commissioned by the Company, is not required by the Author’s job description, and is not a work-made-for-hire. All Derivatives—whether created by the Author or by the Company’s personnel based on the Software—are and remain the Author’s intellectual property. To the fullest extent permitted by law, the Company hereby assigns to the Author any IP rights it might otherwise obtain in such Derivatives. For the avoidance of doubt, the Company’s internal adoption or operational reliance does not affect ownership or create any procurement/commissioning inference (see also §2.4).
+1.4. Project-Wide Coverage; Header Omission. This License governs all files and components included in the repository or distributed package identified with this LICENSE, whether or not a per-file header or SPDX tag appears in a given file. The absence, omission, or removal of a per-file header does not waive, limit, or alter the Author’s rights or the applicability of this License to that file.
+1.5. No Implied Rights to Future Releases. This License grants no rights to any Update/Release or new product/module by the Author. Any rights to Updates/Releases/New Products arise only under the then-current license version designated by the Author at the time of such Update/Release (see §§2.7–2.10, 6.9).
+
+2. License to Company (Initial Version only; Updates gated)
+2.1. Grant. The Author grants the Company a non-exclusive, royalty-free, non-transferable, non-sublicensable, revocable license to use versions ≥5.0 for Internal Use only and only while the Author is employed by the Company and the Employment Conditions are continuously met.
+2.2. Restrictions. Without prior written consent of the Author, the Company must not distribute, sell, transfer, sublicense, relicense under open-source terms, or expose the Software to third parties (including affiliates, contractors, integrators, or managed/cloud providers) beyond what is strictly necessary for Internal Use. Copyright/license notices must not be removed or altered.
+2.3. Internal Modifications. The Company may make local modifications solely for Internal Use; all such modifications are Derivatives owned by the Author.
+2.4. No Mandate Inference. The Company’s internal adoption, managerial encouragement, or operational reliance shall not be construed as mandate, procurement, assignment, or transfer of ownership; no ownership or procurement rights arise from mere use.
+2.5. Author’s Freedom to License. The Author may at any time, at the Author’s sole discretion, license, sublicense, sell, distribute, open-source, dual-license, or otherwise commercialize the Software and any Derivatives to any third party on any terms. The Company’s rights under §2.1 remain limited to Internal Use of the Initial/Legacy Version only and are unaffected by any third-party licensing by the Author.
+2.6. Enhancement Requests & Feedback. The Author may, but is not obliged to, implement any Company requests, suggestions, or requirements for features, fixes, or enhancements. All such implementations, improvements, and related Derivatives (whether based on Company feedback or otherwise) are and remain the Author’s exclusive intellectual property. “Feedback” (ideas, requests, suggestions, bug reports) is provided by the Company without restriction; to the fullest extent permitted by law, the Company assigns to the Author all rights it may hold in Feedback, and no compensation, attribution, or license-back is required.
+2.7. Updates & License Coupling. Any Update/Release (if provided at all) is furnished solely under the then-current version of this License as published in the repository root at the time of the Update/Release. Installing, accessing, deploying, or using an Update/Release constitutes acceptance of that then-current license version. Absent such acceptance, the Company has **no license** to that Update/Release and must not access, install, copy, or use it.
+2.8. No Automatic Rights to Future Versions. This License does **not** grant any automatic rights to any Update/Release/New Product. Rights arise only upon the Company’s acceptance (per §2.7) of the then-current license accompanying that Update/Release/New Product.
+2.9. Delivery Discretion; No Support Obligation. The Author has no obligation to provide Updates, support, maintenance, or new Releases. Any delivery, if any, is at the Author’s sole discretion and may be subject to technical, access-control, or acceptance mechanisms.
+2.10. New Products/Modules. Any separately named product/module/framework published by the Author (including within the SOYMM umbrella) is **not** licensed under this License unless expressly stated. No rights are granted by implication.
+
+3. Term, Termination, Consequences
+3.1. Term. The license remains valid only while the Employment Conditions in §2.1 are continuously met.
+3.2. Automatic Termination. The license terminates immediately upon: (a) end of employment; (b) downgrade below grade 7 or reporting line below N-3; (c) any Company claim of ownership in the Software or Derivatives; or (d) breach of §2.2.
+3.3. Wind-Down (optional). At the Author’s discretion, up to 30 days may be granted for purely technical wind-down (no new deployments).
+3.4. Post-Termination Duties. Within 7 days after termination, the Company must cease use and delete all copies/forks/backups (except archival copies retained solely to comply with law) and provide written certification of deletion.
+3.5. Unauthorized Update Use. Accessing, installing, or using any Update/Release without acceptance of the then-current license (per §2.7) constitutes a material breach, subject to immediate injunctive relief under §5.4.
+
+4. Confidentiality & Clarifications
+4.1. Company Confidentiality. Nothing here permits disclosure or use of Company confidential information beyond what is strictly necessary for Internal Use of the Software.
+4.2. Not Work-Made-For-Hire. The parties acknowledge the Software was created by the Author in free time and without compensation; it is not a work-made-for-hire of the Company.
+4.3. No Implied Rights. No rights to any other works of the Author are granted by implication, estoppel, or otherwise.
+4.4. Outside Scope of Employment. The parties acknowledge the Software is not required by the Author’s job description, OKRs, or KPIs. Its development was voluntary, in the Author’s free time and without compensation. The Company’s use does not convert the Software into a work-made-for-hire nor transfer any ownership.
+4.5. Clean-Room & Confidentiality Guardrails. In exercising §2.5, the Author will not disclose Company Confidential Information. Generic know-how, ideas, methods, and skills retained in the Author’s unaided memory (“Residuals”) are not deemed Company Confidential Information. The Author may re-implement similar functionality without use or disclosure of Company Confidential Information.
+
+5. Warranties, Patents & Liability
+5.1. AS IS. The Software is provided “as is,” without warranties of any kind. The Author is not liable for any damages arising from use of the Software.
+5.2. Limited Patent License. Only those patent rights (if any) strictly necessary to exercise §2.1 are granted; all other patent rights are reserved by the Author.
+5.3. No-Challenge / No-Assist. The Company shall not challenge the Author’s IP or assist third parties in doing so with respect to the Software, Derivatives, or Author Marks.
+5.4. Injunctive Relief. The Author may seek injunctive relief for any breach without proving irreparable harm.
+
+6. Miscellaneous
+6.1. No Assignment by Company. The Company may not assign or transfer this license (including via merger/reorganization) without the Author’s written consent.
+6.2. Assignment to Author-Controlled Entity. The Author or the Author’s Successors may assign this license and all IP rights in the Software to any Author-Controlled Entity without the Company’s consent; upon notice, such entity is automatically substituted for the Author.
+6.3. Trademarks. No rights in the Author Marks are granted. The Company shall not register, use, or apply for any mark confusingly similar to the Author Marks.
+6.4. Third-Party Components. The Software may include third-party components subject to their own licenses. Those licenses govern such components and are not modified by this license.
+6.5. Export/Compliance. The Company is solely responsible for compliance with applicable export control, sanctions, and regulatory laws in connection with its use of the Software.
+6.6. Entire Agreement. This license is the entire agreement regarding the Software and does not amend the employment agreement.
+6.7. Severability / No Waiver. Invalidity of any provision does not affect the remainder; non-enforcement is not a waiver.
+6.8. Acceptance & Notices. Storage, deployment, or Internal Use by the Company constitutes acceptance of this license. Notices may be delivered via a commit in the repository root or email to contact@soymm.com (or another address designated by the Author).
+6.9. Versioning & Author’s Right to Amend. The Author may unilaterally amend this License **for future Updates/Releases/New Products** by publishing a new license version in the repository root (updating “Version,” “License ID,” and “Effective Date”); such amendment is prospective only and takes effect immediately upon publication. Continued storage, deployment, or Internal Use of any Update/Release after publication constitutes acceptance. Additionally, the Author may unilaterally amend §3.1 (Term) for the Initial/Legacy Version. No amendment shall impose retroactive liability for past actions or create payment obligations on the Company.
+6.10. Changelog.
+  - v1.1 (2025-11-19): 
+      • Added Product Marks: “EXLigentum”, “LLigentum” (§0.9).
+      • Editorial consistency: unified capitalization “SOYMM”, minor wording/formatting clean-ups.
+      • Clarification: no changes to license grants, restrictions, termination, forum, or fee protection; v1.1 is prospective only per §6.9 and does not apply retroactively.
+  - v1.0 (2025-11-17): Initial publication.
+6.11. Forum; Language (NCC). Any dispute arising out of or in connection with this License shall be submitted to the Amsterdam District Court, with proceedings before the Netherlands Commercial Court (NCC) or the Netherlands Commercial Court of Appeal (NCCA), as applicable. Proceedings shall be conducted in English under the NCC Rules. The parties agree that this clause satisfies the NCC/NCCA forum and language requirements.
+6.12. Survival. §§1, 2.2–2.10, 3.4–3.5, 4, 5, 6.1–6.17 survive termination.
+6.13. Costs & One-Way Fee Protection. To the maximum extent permitted by law:
+      (a) No costs, expenses, or attorneys’ fees may be awarded against the Author; the Company irrevocably waives any right to recover such amounts from the Author.
+      (b) The Company shall bear its own costs and shall promptly pay and hold harmless the Author for all reasonable costs and expenses (including attorneys’ fees, expert/consultant fees, court/tribunal/NCC fees, e-discovery and translation costs, travel and enforcement costs) incurred by the Author in any claim, defense, or proceeding arising out of or relating to this License or the Software, regardless of outcome.
+      (c) If a competent court/tribunal finds §6.13(b) unenforceable in whole or in part, then at minimum a prevailing-party rule shall apply in favor of the Author, and in any event no cost/fee award shall ever be made against the Author.
+      (d) Security for Costs. Upon the Author’s written request after a dispute is filed, the Company shall within 14 days deposit into escrow or post a bond reasonably covering the Author’s anticipated costs; failure constitutes a material breach and entitles the Author to immediate injunctive relief under §5.4.
+6.14. Succession. Upon the Author’s death, legal incapacity, or permanent unavailability, all of the Author’s rights, title, and interests in and to this License and the Software (including the right to enforce, assign under §6.2, and unilaterally amend under §6.9) automatically vest in the Successors in the order set out in §0.11. The Company shall, upon request by the Successors, update contact details and direct all notices accordingly.
+6.15. No Exclusivity / No ROFR / No MFN. The Company acknowledges that this License is strictly non-exclusive and confers no right of exclusivity, no right of first refusal, and no most-favored-nation protection. The Company has no approval or blocking right over the Author’s licensing to others.
+6.16. License Controls; Aggregation; No Waiver by Omission. In any conflict between per-file headers and this LICENSE, this LICENSE controls. Aggregation or compilation of the Software with other works does not alter the licensing of the Software. The absence or removal of a per-file header, SPDX tag, or notice shall not be construed as a waiver, dedication to the public domain, or change of license.
+6.17. Umbrella Brand & Product Marks. The Company acknowledges that “SOYMM” functions as a house/umbrella brand for a portfolio of products (including the Product Marks). Nothing in this License grants any rights or licenses in the Author Marks (including the Product Marks). Any use beyond nominative reference requires the Author’s prior written consent. The Company shall not register, apply for, or assist others in registering any mark identical or confusingly similar to the Author Marks or the Product Marks.
+
+Author: Oleh Serhieiev — soymm.com — © 2025
+Company: Miratech (optional acknowledgment)
